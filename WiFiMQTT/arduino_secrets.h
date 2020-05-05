@@ -1,0 +1,2 @@
+#define SECRET_SSID "r1-1117"
+#define SECRET_PASS "3716037160"
